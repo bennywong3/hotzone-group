@@ -3,7 +3,7 @@ HotZone URL: https://hotzone-group-v.herokuapp.com/
 
 ## Project description
 Please read HotZone_ProjectDescription.pdf for more details of this project. 
-In short, this group project is a practice of Agile development, developed using **Django and React** . You can watch the video to see how to use this system.
+In short, this group project is a practice of Agile development(used **Jira**), developed using **Django and React** . You can watch the video to see how to use this system.
 
 This project has the following functions:
 
