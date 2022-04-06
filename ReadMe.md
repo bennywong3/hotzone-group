@@ -1,5 +1,6 @@
 # HotZone Sprint 3
 HotZone URL: https://hotzone-group-v.herokuapp.com/
+
 For the individual part (Sprint1), visit https://github.com/bennywong3/hotzone-individual
 
 ## Project description
